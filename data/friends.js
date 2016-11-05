@@ -14,6 +14,21 @@
 			4,
 			1
 		]
+ 	}, {
+ 		"name": "Zoro",
+		"photo": "http://www.dogbreedinfo.com/images26/AmericanEskimoPurebredDogChloe3.jpg",
+		"scores": [
+			1,
+			5,
+			3,
+			3,
+			1,
+			1,
+			1,
+			5,
+			5,
+			2
+		]
  	}
  ];
 
